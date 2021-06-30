@@ -1,18 +1,23 @@
-# Day2
+# Day3
 
-Screenshots of day2 Study:
+Screenshots of day3 Study:
 
-# Appium-Error
+# Factorial-App-Prepare UnitTesting
 
-![alt text](https://github.com/mfurkan60/Testing-Internship/blob/main/day2/Appium-Error%20.png?raw=true)
+![alt text](https://github.com/mfurkan60/Testing-Internship/blob/main/day3/Factorial-App-MAnuel-Testing.png?raw=true)
 
-# Appium-Missing-Android_HOME-path
+# Appium Tool Navbar
 
-![alt text](https://github.com/mfurkan60/Testing-Internship/blob/main/day2/Appium-missing-Android_HOME%20path.png?raw=true)
+![alt text](https://github.com/mfurkan60/Testing-Internship/blob/main/day3/Recording-appium-tool.png?raw=true)
  
+# Appium Tool Componenet- Missing -id values
 
+![alt text](https://github.com/mfurkan60/Testing-Internship/blob/main/day3/appium-component-test.png?raw=true)
  
- 
+  
+# Appium Tool Feature of Recording
+
+![alt text](https://github.com/mfurkan60/Testing-Internship/blob/main/day3/Recording-appium-tool.png?raw=true)
 
  
 
